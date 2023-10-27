@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahujaesh
-- 👀 I’m interested in python and Java
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on swift
-- 📫 How to reach me, ahuja.kids@outlook.com
+- 👀 I’m interested in ftc
+- 🌱 I’m currently learning ftc
+- 💞️ I’m looking to collaborate on ftc
+- 📫 How to reach me, ahuja.eshaan@gmail.com
 
 <!---
 ahujaesh/ahujaesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
