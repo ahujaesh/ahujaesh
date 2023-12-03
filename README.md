@@ -2,7 +2,7 @@
  - 👀 I'm currently immersed in learning Android Studio with a focus on Java.
  - 🌱 I thrive on collaborating on exciting coding projects.
  - 💬 Let's connect! Reach me at ahuja.eshaan0@gmail.com.
- - 💻 My skill set includes HTML, CSS, JavaScript, Java, Python, and a touch of C# among other languages!
+ - 💻 My skill set includes HTML, CSS, JavaScript, Java, Python, Scratch/block coding, and a touch of C# among other languages!
 
 <!---
 ahujaesh/ahujaesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
