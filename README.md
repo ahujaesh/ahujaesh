@@ -3,6 +3,8 @@
  - 🌱 I thrive on collaborating on exciting coding projects, as well as building robots and other tech creations.
  - 💬 Let's connect! Reach me at ahuja.eshaan0@gmail.com.
  - 💻 My skill set includes HTML, CSS, JavaScript, Java, Python, Scratch/block coding, .ino format / Arduino code ( A mix between C and C ++ ), and a touch of C# among other languages!
+   I'm also HTML certified by FreeCodeCamp, a website with almost 400,000 users!
+   ![A screenshot of my certification found here: https://www.freecodecamp.org/certification/Eshaan-Ahuja/responsive-web-design](https://github.com/ahujaesh/ahujaesh/blob/main/html-certification.png)
 
 <!---
 ahujaesh/ahujaesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
