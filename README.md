@@ -2,7 +2,7 @@
 
 
 ### Hi
-Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom**](https://phantom12857.com), and the Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). 
+Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom**](https://phantom12857.com), and the lead programmer from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). 
  
 ### **My skill set:** 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -16,9 +16,9 @@ Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom*
 , and ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)). These days, however, I'm mainly into web development ( ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 , ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 , ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-, ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white), ect).
+, ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white), etc).
 
- etc.) Please email me if you'd like to connect: ahuja.eshaan0@gmail.com.
+ Please **email** me if you'd like to connect: ahuja.eshaan0@gmail.com.
 
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahujaesh&theme=transparent)
