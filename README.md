@@ -20,10 +20,10 @@ Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom*
 , ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white), etc) and using ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic) for my main editor.
 
  Please **email** me if you'd like to connect: ahuja.eshaan0@gmail.com.
-
    
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahujaesh&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahujaesh&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&layout=compact&text_color=daf7dc&bg_color=151515)
+
 
    I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost **400,000 users**.
    
