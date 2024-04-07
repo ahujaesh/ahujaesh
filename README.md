@@ -25,7 +25,7 @@ Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom*
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahujaesh&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahujaesh&theme=transparent)
 
-   I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost 400,000 users.
+   I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost **400,000 users**.
    
    ![A screenshot of my certification found here: https://www.freecodecamp.org/certification/Eshaan-Ahuja/responsive-web-design](https://github.com/ahujaesh/ahujaesh/blob/main/html-certification.png)
 
