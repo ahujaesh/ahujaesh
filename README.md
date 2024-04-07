@@ -21,9 +21,8 @@ Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom*
 
  Please **email** me if you'd like to connect: ahuja.eshaan0@gmail.com.
    
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahujaesh&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&layout=compact&text_color=daf7dc&bg_color=151515)
-
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahujaesh&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&langs_count=5&layout=donut&bg_color=15151)](https://github.com/anuraghazra/github-readme-stats)
 
    I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost **400,000 users**.
    
