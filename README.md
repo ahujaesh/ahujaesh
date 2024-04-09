@@ -2,7 +2,7 @@
 
 
 ### Hi
-Nice to meet you, I'm Eshaan Ahuja, a programmer from [**FTC team 12847 Phantom**](https://phantom12857.com), and the lead programmer from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). 
+Nice to meet you, I'm Eshaan Ahuja, a programmer from **FTC team** <a href="https://phantom12857.com"><img style="width: 5%;" src="https://github.com/ahujaesh/ahujaesh/assets/86844958/782047db-76cb-47ca-899c-e7bcb607441a"></a>(Phantom 12587), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). 
  
 ### **My skill set:** 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
