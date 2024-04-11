@@ -1,8 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahujaesh&theme=transparent)
 
 
-### Hi
-Nice to meet you, I'm Eshaan Ahuja, a programmer from **FTC team** <a href="https://phantom12857.com"><img style="width: 5%;" src="https://github.com/ahujaesh/ahujaesh/assets/86844958/782047db-76cb-47ca-899c-e7bcb607441a"></a>(Phantom 12587), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). 
+### Hello
+Nice to meet you, I'm **Eshaan Ahuja**, an learning 13-year-old programmer trying to learn while still surviving middle school. I'm a programmer from [**FTC team Phantom 12587**](https://phantom12857.com), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). I love to learn, so feel free to reach out if you find any errors in my projects, or want to collaborate.
  
 ### **My skill set:** 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
