@@ -23,7 +23,7 @@ Nice to meet you, I'm **Eshaan Ahuja**, an learning 13-year-old programmer tryin
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahujaesh&mode=weekly&card_width=150&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahujaesh&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&langs_count=5&layout=donut&bg_color=15151)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&layout=compact)
 
    I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost **400,000 users**.
    
