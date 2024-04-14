@@ -20,7 +20,8 @@ Nice to meet you, I'm **Eshaan Ahuja**, an learning 13-year-old programmer tryin
 , ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white), etc) and using ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic) for my main editor.
 
  Please **email** me if you'd like to connect: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahuja.eshaan0@gmail.com&style=plastic)](mailto:ahuja.eshaan0@gmail.com).
-   
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahujaesh&mode=weekly&card_width=150&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahujaesh&theme=swift)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&langs_count=5&layout=donut&bg_color=15151)](https://github.com/anuraghazra/github-readme-stats)
 
