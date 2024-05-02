@@ -2,7 +2,7 @@
 
 
 ### Hello 👋
-Nice to meet you, I'm **Eshaan Ahuja**, an 13-year-old programmer trying to learn programming while still surviving middle school. I'm a programmer from [**FTC team Phantom 12587**](https://phantom12857.com), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). I love to learn, so feel free to reach out if you find any errors in my projects, or want to collaborate.
+Nice to meet you, I'm **Eshaan Ahuja**, an 13-year-old trying to code while still surviving middle school. I'm a programmer from [**FTC team Phantom 12587**](https://phantom12857.com), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). I love to learn, so feel free to reach out if you find any errors in my projects, or want to collaborate.
  
 ### Technologies I use
 |||
