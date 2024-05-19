@@ -11,13 +11,13 @@ Nice to meet you, I'm **Eshaan Ahuja**, a 13-year-old trying to code while still
 | Programming languages (Not mastered / Learning) |![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=plastic) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)|
 | IDE | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic) ![Github](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic) ![Arduino Create](https://img.shields.io/badge/Arduino%20Create-00979c?logo=arduino&logoColor=white&style=plastic) ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white)|
 | OS | ![ChromeOS](https://img.shields.io/badge/ChromeOS-black?logo=google&logoColor=white&style=plastic) ![Windows](https://img.shields.io/badge/Windows-black?logo=windows&style=plastic)|
-| Services | ![Github](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic) ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white) 	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)|
+| Services | ![Github](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic) ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white) 	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white)|
 
 
 
 These days, I've been learning ML (Using ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) through ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white)).
 
-I am also learning ruby to improve my git and terminal skills.
+I am also learning ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) to improve my ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white) and terminal skills.
 
  Please **email** me if you'd like to connect: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahuja.eshaan0@gmail.com&style=plastic)](mailto:ahuja.eshaan0@gmail.com).
  
