@@ -26,4 +26,4 @@ I am also learning ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style
 
    I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost **400,000 users**.
 
- Recent achievements: Science Fair states (There are no Global finals for middle school), advancement to DI Globals (Happening on May 21 - 25, 2024), FTC States, various academic awards, and more.
+ Recent achievements: Science Fair states (There are no Global finals for middle school), advancement to DI Globals (Happening NOW! (May 21 - 25, 2024)), FTC States, various academic awards, and more.
