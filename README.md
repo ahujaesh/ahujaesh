@@ -2,7 +2,7 @@
 
 
 ### Hello 👋
-Nice to meet you, I'm **Eshaan Ahuja**, a 13-year-old trying to code while still surviving middle school. Aside from coding, I run cross country and play the Alto Saxophone. On top of this, I'm the lead programmer from [**FTC team Phantom 12587**](https://phantom12857.com), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). I love to learn, so feel free to contact me if you find any errors in my projects, or want to collaborate.
+Nice to meet you, I'm **Eshaan Ahuja**, a 13-year-old trying to code while still surviving middle school. Aside from coding, I run cross country and play the Alto Saxophone. On top of this, I'm the **lead programmer** from [**FTC team Phantom 12587**](https://phantom12857.com), and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io). I love to learn, so feel free to contact me if you find any errors in my projects, or want to collaborate.
  
 ### Technologies I use
 |||
@@ -13,15 +13,9 @@ Nice to meet you, I'm **Eshaan Ahuja**, a 13-year-old trying to code while still
 | OS | ![ChromeOS](https://img.shields.io/badge/ChromeOS-black?logo=google&logoColor=white&style=plastic) ![Windows](https://img.shields.io/badge/Windows-black?logo=windows&style=plastic)|
 | Services | ![Github](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic) ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white) 	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white)|
 
-
-
-These days, I've been learning ML (Using ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) through ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white)).
-
-I am also learning ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) to improve my ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white) and terminal skills.
-
  Please **email** me if you'd like to connect: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahuja.eshaan0@gmail.com&style=plastic)](mailto:ahuja.eshaan0@gmail.com).
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahujaesh&mode=weekly&card_width=150&hide_total_contributions=true&hide_longest_streak=true&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahujaesh&card_width=150&hide_total_contributions=true&hide_longest_streak=true&theme=transparent)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&layout=compact&theme=transparent&langs_count=7&hide=nix)
 
    I'm also **Web Design certified** (HTML, CSS, and Javascript) by [**FreeCodeCamp**](https://www.freecodecamp.org/), a website with almost **400,000 users**.
