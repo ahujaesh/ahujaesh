@@ -13,7 +13,7 @@ Nice to meet you, I'm **Eshaan Ahuja**, a 13-year-old trying to code while still
 | OS | ![ChromeOS](https://img.shields.io/badge/ChromeOS-black?logo=google&logoColor=white&style=plastic) ![Windows](https://img.shields.io/badge/Windows-black?logo=windows&style=plastic)|
 | Services | ![Github](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic) ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=plastic&logo=google&logoColor=white) 	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white)|
 
- Please **email** me if you'd like to connect: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahuja.eshaan0@gmail.com&style=plastic)](mailto:ahuja.eshaan0@gmail.com).
+ Please **email** me if you'd like to connect: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahuja.eshaan0+github@gmail.com&style=plastic)](mailto:ahuja.eshaan0+github@gmail.com).
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahujaesh&card_width=150&hide_total_contributions=true&hide_longest_streak=true&theme=transparent)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahujaesh&layout=compact&theme=transparent&langs_count=7&hide=nix)
