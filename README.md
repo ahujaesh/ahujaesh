@@ -2,7 +2,7 @@
 
 
 ### Hello 👋
-Nice to meet you, I'm **Eshaan Ahuja**. I'm the **lead programmer** from [**FTC team Phantom 12587**](https://phantom12857.com) and the **lead programmer** from Destination Imagination Team [**The Daring Dragons**](https://ahujaesh.github.io).
+Nice to meet you, I'm **Eshaan Ahuja**. I'm the **lead programmer** from [**FTC team Phantom 12587**](https://phantom12857.com) and the **lead programmer** from Destination Imagination Team **The Daring Dragons**.
  
  Please **email** me if you'd like to connect: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahuja.eshaan0+github@gmail.com&style=plastic)](mailto:ahuja.eshaan0+github@gmail.com).
  
