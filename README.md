@@ -6,7 +6,7 @@ Nice to meet you, I'm **Eshaan Ahuja**.
 
 **Recent works:**
 
-Deep-learning framework for automated mosquito breeding-ground detection using aerial and ground imagery. | Published 2025 | [![OpenAlex](https://img.shields.io/badge/OpenAlex-Cited%20by%201-7B68EE)](https://openalex.org/W4411135644) 
+Deep-learning framework for automated mosquito breeding-ground detection using aerial and ground imagery. | Published 2025 | [![OpenAlex](https://img.shields.io/badge/OpenAlex-Cited%20by%202-7B68EE)](https://openalex.org/W4411135644) 
 
 <!-- ([doi](https://doi.org/10.52756/lbsopf.2025.v04.004)) -->
 
